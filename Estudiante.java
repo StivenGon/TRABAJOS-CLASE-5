@@ -1,4 +1,4 @@
-// Practica 05 Ejercicio 1 
+// Practica 05 Ejercicio 1 Estudiante
 // @author Stiven Gonzalez
 // Clase desarrollada de manera asincrónica
 public class Estudiante extends Persona {
